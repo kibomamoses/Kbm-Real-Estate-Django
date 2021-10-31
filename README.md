@@ -17,3 +17,22 @@ Login – the user need to login first to access the system.
 Search – the user can search a place, state, price and bedrooms available.
 
 
+## Screenshots
+![kbm real estate](https://github.com/kibomamoses/Kbm-Real-Estate-Django/blob/master/2021-10-31%20(6).png)
+
+![kbm real estate](https://github.com/kibomamoses/Kbm-Real-Estate-Django/blob/master/2021-10-31%20(7).png)
+
+![kbm real estate](https://github.com/kibomamoses/Kbm-Real-Estate-Django/blob/master/2021-10-31%20(8).png)
+
+![kbm real estate](https://github.com/kibomamoses/Kbm-Real-Estate-Django/blob/master/2021-10-31%20(9).png)
+
+![kbm real estate](https://github.com/kibomamoses/Kbm-Real-Estate-Django/blob/master/2021-10-31%20(10).png)
+
+![kbm real estate](https://github.com/kibomamoses/Kbm-Real-Estate-Django/blob/master/2021-10-31%20(11).png)
+
+![kbm real estate](https://github.com/kibomamoses/Kbm-Real-Estate-Django/blob/master/2021-10-31%20(12).png)
+
+![kbm real estate](https://github.com/kibomamoses/Kbm-Real-Estate-Django/blob/master/2021-10-31%20(13).png)
+
+![kbm real estate](https://github.com/kibomamoses/Kbm-Real-Estate-Django/blob/master/2021-10-31%20(14).png)
+
